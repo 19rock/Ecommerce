@@ -1,11 +1,11 @@
 {
-  "homepage": "hppts://19rock.github.io/ecommerce",
-  "name": "ecommerce",
+  "homepage" "https//19rock.github.io/ecomerce",
+  "name": "ecomerce",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run dev",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
